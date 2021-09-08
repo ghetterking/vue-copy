@@ -32,7 +32,7 @@ export default {
         // date:  new Date().toISOString().slice(8,10)+"."+new Date().toISOString().slice(5,7)+"."+new Date().toISOString().slice(0,4)
         currentDate:"",
         gsheet_url:
-          "https://sheets.googleapis.com/v4/spreadsheets/1qLZJwuNv3QmwGhSj1wZZbuXNOkDKN-Ha7fo0Ca_uVVU/values:batchGet?ranges=A1%3AE100&valueRenderOption=FORMATTED_VALUE&key=AIzaSyBesotaNgSaTUIhrSKjEaExdi-ksKInhoE", // redacted
+          "https://sheets.googleapis.com/v4/spreadsheets/14H01XySRBfzWTWLVNvtF2utBaM9-dyk7GsRmmfG-RK8/values:batchGet?ranges=A1%3AE100&valueRenderOption=FORMATTED_VALUE&key=AIzaSyAsCQCGbF55Cq2btP76iKcS-8VuflmC9aw", // redacted
         entries: [],
       };
     },
